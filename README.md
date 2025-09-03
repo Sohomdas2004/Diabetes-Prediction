@@ -1,5 +1,3 @@
-Diabetes Prediction
-
 This project predicts whether a person is likely to have diabetes based on medical and health-related data.
 It uses Machine Learning techniques to analyze the dataset and make predictions.
 
